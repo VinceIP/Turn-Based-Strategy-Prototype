@@ -1,0 +1,14 @@
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\obj\Debug\Assembly-CSharp.dll
+C:\Users\Vince\Dropbox\Unity projects\TBS\TBS Prototype\obj\Debug\Assembly-CSharp.pdb
