@@ -1,7 +1,7 @@
 # Turn-Based-Strategy-Prototype
 An ancient unfinished 2D Unity project of mine from 2015.
 
-##Description
+## Description
 This is one of my biggest and oldest game dev projects from back in the day, even though it never turned into a solid working game. At that time, I was addicted to a little game on the Game Boy Advance called Advance Wars. Back when I started getting serious about learning Unity, I decided to try and make a clone of Advance Wars.
 
 
